@@ -1,8 +1,3 @@
----
-layout: default
-title: Ask Ai Anywhere 
----
-
 # Privacy Policy for Ask Claude Anywhere
 
 **Last updated**: November 2, 2024
