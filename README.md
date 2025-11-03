@@ -164,9 +164,9 @@ This extension:
 
 **Questions about this privacy policy?**
 
-- **Email**: [your-email@example.com]
-- **GitHub**: [your-github-repo-link]
-- **Website**: [your-website]
+- **Email**: santhushajanana@gmail.com
+- **GitHub**: https://github.com/Santhusha-bit/Ask-AI-Anywhere
+- **Website**: www.askaianywhere.me
 
 ## Complaints
 
@@ -239,7 +239,7 @@ You can withdraw consent anytime by uninstalling the extension.
 
 ---
 
-**Questions?** Contact us at [your-email@example.com]
+**Questions?** Contact us at santhushajanana@gmail.com
 
 **Last updated**: November 2, 2024
 
